@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello everyone!
+
+I'm currently working on Tech Elevator Java Software Development Bootcamp!
