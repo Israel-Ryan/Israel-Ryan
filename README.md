@@ -22,7 +22,7 @@ I recently finished a full-stack development bootcamp - Tech Elevator!
 I learned the following:
     Back-end: Java
     Database: postgreSQL
-    Front-end: HTML5, CSS3, JavaScript, Vue.js
+    Front-end: HTML5, CSS3, JavaScript, Vue.js <br>
 
 Currently I'm learning / Working on :
     C++ -> aligns closer to what I'd like to do in my career
