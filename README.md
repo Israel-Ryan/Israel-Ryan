@@ -19,9 +19,9 @@ Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio.
     if you need to reach me: izzyryan603@yahoo.com
 
 I recently finished a full-stack development bootcamp - Tech Elevator!
-I learned the following:
-    Back-end: Java
-    Database: postgreSQL
+I learned the following: <br>
+    Back-end: Java <br>
+    Database: postgreSQL <br>
     Front-end: HTML5, CSS3, JavaScript, Vue.js <br>
 
 Currently I'm learning / Working on :
