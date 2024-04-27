@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Israel-Ryan/Israel-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,12 +9,12 @@ Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio. <br>
 
 I recently finished a full-stack development bootcamp - Tech Elevator!
 
-## I learned the following: <br>
+### I learned the following: <br>
  - Back-end: Java <br>
  - Database: postgreSQL <br>
  - Front-end: HTML5, CSS3, JavaScript, Vue.js <br>
  
-## Currently I'm learning / Working on : <br>
+### Currently I'm learning / Working on : <br>
  - C++ -> aligns closer to what I'd like to do in my career <br>
  - Competitive Programming -> I think it'd be a fun side hobby! <br>
  - MTG website -> finishing up and polishing my final capstone into a better representation of my skills and abilities <br>
