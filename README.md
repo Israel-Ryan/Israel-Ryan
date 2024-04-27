@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio.
     if you need to reach me: izzyryan603@yahoo.com
 
-I'm currently working on Tech Elevator Java Software Development Bootcamp!
-I'm learning full-stack development:
+I recently finished a full-stack development bootcamp - Tech Elevator!
+I learned the following:
     Back-end: Java
     Database: postgreSQL
     Front-end: HTML5, CSS3, JavaScript, Vue.js
 
-I'd like to work on Minecraft plug-ins as a passion project
+Currently I'm learning / Working on :
+    C++ -> aligns closer to what I'd like to do in my career
+    Competitive Programming -> I think it'd be a fun side hobby!
+    MTG website -> finishing up and polishing my final capstone into a better representation of my skills and abilities    
 
 Fun fact about me: My rubik's cube personal best solve is 13.5 seconds
