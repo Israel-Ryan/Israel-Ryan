@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio.
+Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio. <br>
     if you need to reach me: izzyryan603@yahoo.com
 
 I recently finished a full-stack development bootcamp - Tech Elevator!
@@ -24,9 +24,9 @@ I learned the following: <br>
     Database: postgreSQL <br>
     Front-end: HTML5, CSS3, JavaScript, Vue.js <br>
 
-Currently I'm learning / Working on :
-    C++ -> aligns closer to what I'd like to do in my career
-    Competitive Programming -> I think it'd be a fun side hobby!
-    MTG website -> finishing up and polishing my final capstone into a better representation of my skills and abilities    
+Currently I'm learning / Working on : <br>
+    C++ -> aligns closer to what I'd like to do in my career <br>
+    Competitive Programming -> I think it'd be a fun side hobby! <br>
+    MTG website -> finishing up and polishing my final capstone into a better representation of my skills and abilities <br>
 
 Fun fact about me: My rubik's cube personal best solve is 13.5 seconds
