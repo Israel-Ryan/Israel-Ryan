@@ -4,7 +4,7 @@
 **Israel-Ryan/Israel-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello everyone! My name is Israel, I'm 21 from Columbus, Ohio. <br>
+Hello everyone! My name is Israel, I'm 23 from Columbus, Ohio. <br>
     if you need to reach me: izzyryan603@yahoo.com
 
 I recently finished a full-stack development bootcamp - Tech Elevator!
