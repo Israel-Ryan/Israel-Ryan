@@ -5,7 +5,7 @@
 -->
 
 Hello everyone! My name is Israel, I'm 23 from Columbus, Ohio. <br>
-    if you need to reach me: izzyryan603@yahoo.com
+    if you need to reach me: izzyryan603@gmail.com
 
 I recently finished a full-stack development bootcamp - Tech Elevator!
 
